@@ -8,6 +8,7 @@ public class Duck {
 	
 	public void nadar() {
 		System.out.println("Estou nadando");
+		System.out.println("Testando o Gith");
 	}
 	
 	public void display() {
