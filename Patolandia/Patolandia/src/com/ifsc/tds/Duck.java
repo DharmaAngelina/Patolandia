@@ -2,13 +2,10 @@ package com.ifsc.tds;
 
 public class Duck {
 	
-	public Duck() {
-		
-	}
+	public Duck() {}
 	
 	public void nadar() {
 		System.out.println("Estou nadando");
-		System.out.println("Testando o Git");
 	}
 	
 	public void display() {
