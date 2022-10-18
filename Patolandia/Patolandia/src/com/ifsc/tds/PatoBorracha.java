@@ -1,7 +1,11 @@
 package com.ifsc.tds;
 
-public class PatoBorracha {
+public class PatoBorracha implements Voador, Grasnador{
 	
+	@Override
+	public void quack() {
+		
+	}
 	
 	public void nadar() {
 		System.out.println("Estou boiando...");
@@ -18,4 +22,5 @@ public class PatoBorracha {
 	public void display() {
 		System.out.println("Oi, eu sou um pato de borracha!");
 	}
+
 }
