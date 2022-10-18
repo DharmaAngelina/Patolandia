@@ -8,7 +8,7 @@ public class Duck {
 	
 	public void nadar() {
 		System.out.println("Estou nadando");
-		System.out.println("Testando o Gith");
+		System.out.println("Testando o Git");
 	}
 	
 	public void display() {
